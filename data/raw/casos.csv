@@ -1,0 +1,11 @@
+id,ticket,expected
+1,"Employee cannot access payroll after password reset.",HR
+2,"The monthly salary was deposited twice into my account.",Finance
+3,"VPN connection fails when working remotely.",Technical
+4,"Request to update bank account for direct deposit.",HR
+5,"Credit card payment appears duplicated in transaction history.",Finance
+6,"Laptop shows a blue screen during startup.",Technical
+7,"Need an employment verification letter for visa application.",HR
+8,"Interest calculation on a mortgage statement seems incorrect.",Finance
+9,"Email client cannot synchronize with the corporate server.",Technical
+10,"Update my home address in employee records.",HR
