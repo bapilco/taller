@@ -1,0 +1,5 @@
+technique,accuracy,avg_input_tokens,avg_output_tokens
+Chain-of-Thought,90.0,66.6,208.9
+Few-shot,80.0,78.6,2.0
+Structured,80.0,55.6,10.4
+Zero-shot,80.0,49.6,2.0
